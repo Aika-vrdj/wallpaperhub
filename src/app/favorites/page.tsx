@@ -14,7 +14,7 @@ export default function FavoritesPage() {
       <Header />
       <main className="container mx-auto px-4 py-8">
         <div className="mb-8">
-          <h1 className="mb-2 text-4xl font-bold">Your Favorites</h1>
+          <h1 className="mb-2 text-4xl font-bold">Collection</h1>
           <p className="text-lg text-muted-foreground">Your collection of favorite wallpapers</p>
         </div>
         <WallpaperGrid wallpapers={favoriteWallpapers} title="Favorite Wallpapers" />
