@@ -9,8 +9,9 @@ export function Header() {
   return (
     <header className="border-b">
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
+         <div className="flex flex-col">
         <Link href="/" className="text-2xl font-bold">
-          WallpaperHaven
+          RebelThemes
         </Link>
         <span className="text-sm text-gray-500">
         dystopian wallpapers
