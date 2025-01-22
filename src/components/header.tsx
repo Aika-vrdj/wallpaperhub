@@ -12,7 +12,9 @@ export function Header() {
         <Link href="/" className="text-2xl font-bold">
           WallpaperHaven
         </Link>
-        
+        <span className="text-sm text-gray-500">
+        dystopian wallpapers
+      </span>
         <div className="flex items-center gap-2">
           <button
             onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
