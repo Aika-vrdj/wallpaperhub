@@ -8,9 +8,9 @@ import { motion, AnimatePresence } from "framer-motion"
 const SLIDES = [
   {
     id: 1,
-    title: "Mountain Lake Sunset",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4",
-    tags: ["Nature", "Mountains", "Sunset"],
+    title: "Dystopia",
+    image: "https://965bkw5uht.ufs.sh/f/mhyKJVqR3EseN9cI1iszXMYqOhN7ygJx64BmSLR59Z3DVbCj",
+    tags: ["city", "dystopia", "cyberpunk"],
     author: "John Smith"
   },
   {
