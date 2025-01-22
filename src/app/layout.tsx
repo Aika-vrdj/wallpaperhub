@@ -4,8 +4,8 @@ import { type Metadata } from "next";
 import "@/styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "Wallpaper Haven",
-  description: "Discover and download beautiful wallpapers",
+  title: "Rebel Themes",
+  description: "Discover and download unique wallpapers",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 
